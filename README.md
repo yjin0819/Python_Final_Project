@@ -8,9 +8,8 @@ The repository includes:
 
 - **README file** (this document): Provides an overview of the project, its purpose, and the contents of the repository.
 - **Code**: Jupyter Notebook(s)  containing all the steps for data gathering, cleaning, exploratory data analysis, feature engineering, and model development.
-- **Data**: The data used for the project, stored in CSV files. The dataset was sourced from the NU MLDS 2024 server.
+- **Data**: The data used for the project, stored in CSV files(data.csv.zip). The dataset was sourced from the NU MLDS 2024 server.
 - **Requirements**: A requirements.yml file listing the required Python packages to replicate the environment used in the project.
-- **.gitignore**: A .gitignore file to prevent unwanted files, such as .DS_Store or .ipynb_checkpoints, from being included in the repository.
 
 ## Workflow Summary
 The main components of this project are organized into different parts in the code:
@@ -21,7 +20,7 @@ The main components of this project are organized into different parts in the co
 
 ## Usage
 
-To replicate this project, Simply clone this repository,set up the required Python environment listed in the Requirements file and also download the Data, and open the Jupyter notebooks to walk through the steps taken in each phase of the project.
+To replicate this project, Simply clone this repository,set up the required Python environment listed in the Requirements file and also download the data.csv.zip, and open the Jupyter notebooks to walk through the steps taken in each phase of the project.
 
 Make sure to also set up a PostgreSQL connection to access the dataset if you want to retrieve fresh data from the original database.
 
