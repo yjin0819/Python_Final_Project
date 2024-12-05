@@ -20,7 +20,7 @@ The main components of this project are organized into different parts in the co
 
 ## Usage
 
-To replicate this project, Simply clone this repository,set up the required Python environment listed in the Requirements file and also download the data.csv.zip, and open the Jupyter notebooks to walk through the steps taken in each phase of the project.
+To replicate this project, simply clone this repository,set up the required Python environment listed in the requirements.yml file and also download the data.csv.zip, and open the Jupyter notebooks to walk through the steps taken in each phase of the project.
 
 Make sure to also set up a PostgreSQL connection to access the dataset if you want to retrieve fresh data from the original database.
 
@@ -28,8 +28,7 @@ Make sure to also set up a PostgreSQL connection to access the dataset if you wa
 ## Results and Analysis
 
 - Six different linear regression models were fitted, with iterative improvements through feature selection and feature engineering.
-- Key insights were derived from model performances, and recommendations were made on how to further improve prediction accuracy, such as experimenting with more advanced modeling techniques (e.g., Random Forest ).
-
+- Key insights were derived from model performances, and recommendations were made on how to further improve prediction accuracy, such as experimenting with more advanced modeling techniques (e.g., Random Forest).
 
 ## License
 
